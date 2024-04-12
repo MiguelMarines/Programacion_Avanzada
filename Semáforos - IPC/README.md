@@ -4,5 +4,3 @@ Implementa la solución de Tanenbaum del problema "La cena de los filósofos" (D
 3. Crear 5 filósofos (cada filósofo es un proceso difente). 
 4. Esperar a que todos los filósofos terminen (cada filósofo ejecuta sus acciones 10 veces).
 5. Eliminar los recursos IPC que se hayan creado.
-
-En esta [liga](https://youtu.be/1aCrMP3VjbE) encontrarás un ejemplo de ejecución.
